@@ -1,0 +1,47 @@
+.header1 {
+  background-color: #b7d6e8;
+  height: 50px;
+  font-size: 40px;
+  padding: 15px;
+  text-align: center;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#GradColor {
+  height: 1300px;
+  background-image: linear-gradient(#92bcd5, #b7d6e8);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  padding: 13px;
+}
+
+label {
+  color: white;
+  font-size: 30px;
+}
+
+button {
+  border: none;
+  color: white;
+  background-color: #6db7d5;
+  font-size: 30px;
+  border-radius: 10px;
+  padding: 10px 30px;
+  position: relative;
+  right: -648px;
+}
+
+.button2 {
+  background-color: #3192bb;
+}
+
+input {
+  padding: 25px 40%;
+  border-radius: 10px;
+  border: none;
+  font-size: 20px;
+  margin: 10px;
+}
